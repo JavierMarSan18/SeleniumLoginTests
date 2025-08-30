@@ -1,0 +1,66 @@
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+*.exe
+*.dll
+*.pdb
+*.mdb
+*.appx
+*.appxupload
+*.appxsym
+*.msix
+*.msixupload
+*.msixsym
+
+# Rider / VSCode / VS
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+*.psmdcp
+.nuget/
+packages/
+*.lock.json
+
+# Selenium / WebDriver temp files
+chromedriver.log
+geckodriver.log
+selenium-screenshot*.png
+*.swp
+
+# OS / Misc
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Logs
+*.log
+
+# Cache
+*.local.json
+*.cache
+
+appsettings.json
